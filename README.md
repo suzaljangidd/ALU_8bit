@@ -1,5 +1,5 @@
 # ALU_8bit
-->8-bit ALU in Verilog with testbench (Icarus + GTKWave)
+8-bit ALU in Verilog with testbench (Icarus + GTKWave)
 # 8-bit ALU (Arithmetic Logic Unit) — Verilog RTL Design
 
 This project contains the RTL design and testbench for an **8-bit ALU**, implemented in **Verilog** and simulated using **Icarus Verilog (iverilog)** and **GTKWave**.
@@ -181,5 +181,5 @@ gtkwave ALU.vcd
 ##  Author
 
 Suzal Jangid  
-3rd Semester ECE Student • Aspiring VLSI / DV Engineer
+ECE Student • Aspiring VLSI / DV Engineer
 
